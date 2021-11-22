@@ -1,0 +1,5 @@
+
+
+# add files to be ignored associate with .exe extension
+*.exe
+*.vscode
